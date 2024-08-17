@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://rameshteja.github.io/e-mart/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
